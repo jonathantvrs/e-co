@@ -5,7 +5,7 @@ import java.util.Comparator;
 import entities.Partido;
 
 /**
- * Essa classe implementa o Comparator para a classe partido. Ela compara em
+ * Essa classe implementa o Comparator para a classe Partido. Ela compara em
  * ordem alfabética A-Z os partidos.
  * 
  * @author Jonathan Tavares da Silva
